@@ -4,4 +4,6 @@
 
 ## References
 - Microsoft Prompt Wizard
-	- https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/
+	- Article: https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/
+	- Repo: https://github.com/microsoft/PromptWizard/
+	- pypi: https://pypi.org/project/promptwizard/
